@@ -1,3 +1,6 @@
+📱 Tentang Aplikasi
+Self-Money Manager adalah aplikasi web manajemen keuangan pribadi yang membantu mengontrol keuangan sehari-hari dengan mudah dan efektif. Aplikasi ini dirancang dengan antarmuka yang user-friendly dengan tujuan agar siapa saja dapat dengan cepat memahami cara penggunaannya.
+
 🚀 Fitur Utama
 ✅ Tambah & Kelola Transaksi (Pemasukan & Pengeluaran)
 ✅ Grafik Pengeluaran interaktif dengan Chart.js
@@ -48,3 +51,19 @@ self-money-manager/
 📈 Lihat Grafik
 1. Grafik pie chart otomatis terupdate
 2. Menunjukkan distribusi pengeluaran per kategori
+
+✅ Mengatur Target Keuangan
+1. Klik tombol "+" di card "Target Keuangan"
+2. Isi form
+3. Klik "Simpan Target"
+4. Klik pada target untuk update progress
+
+💾 Export Data
+Klik tombol "Export Data" di sidebar
+File CSV akan terdownload otomatis
+Buka file dengan Excel atau Google Sheets
+
+🗑️ Menghapus Data
+Untuk hapus transaksi: Klik ikon 🗑️ di tabel transaksi
+Untuk hapus target: Klik ikon 🗑️ di card target
+Konfirmasi penghapusan ketika diminta
